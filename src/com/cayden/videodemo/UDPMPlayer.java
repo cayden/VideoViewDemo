@@ -114,6 +114,7 @@ public class UDPMPlayer extends Activity {
 //				curPosition = 0;
 				iserror = true;
 				errorCnt++;
+				
 				mVideoView.pause();
 				
 			}
