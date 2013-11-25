@@ -59,6 +59,7 @@ public class UDPVideoPlayer extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.bbvideoplayer);
 
+		
 		findViews();
 		init();
 		playvideo();
